@@ -3,7 +3,7 @@
     "id": "a1b2c3d4e5f6",
     "title": "Mastering CSS Grid Layouts",
     "category": "design",
-    "author": "Priya Sharma",
+    "author": "NIKA",
     "body": "CSS Grid has revolutionised the way we construct two-dimensional layouts on the web. By defining explicit rows and columns, designers gain precise spatial control that floats and flexbox simply cannot match.",
     "createdAt": "2025-11-14T09:22:00.000Z"
   },
@@ -11,7 +11,7 @@
     "id": "b2c3d4e5f6a1",
     "title": "Node.js Streams: A Deep Dive",
     "category": "development",
-    "author": "Arjun Mehta",
+    "author": "ZORO",
     "body": "Streams are one of Node.js's most powerful primitives. Rather than loading entire datasets into memory, streams process data in chunks — enabling high-throughput pipelines that remain lean under load.",
     "createdAt": "2025-12-01T14:05:00.000Z"
   },
@@ -19,7 +19,7 @@
     "id": "c3d4e5f6a1b2",
     "title": "Building a Scalable Content Strategy",
     "category": "strategy",
-    "author": "Neha Iyer",
+    "author": "EREN YEAGER",
     "body": "Content without strategy is noise. A well-architected content plan maps audience intent to distribution channels, ensures consistent brand voice, and builds compounding organic authority over time.",
     "createdAt": "2026-01-18T11:30:00.000Z"
   },
@@ -27,8 +27,16 @@
     "id": "2f43f9eef60f",
     "title": "Understanding the Node.js Event Loop",
     "category": "development",
-    "author": "Yogesh Kumar",
+    "author": "LUFFY",
     "body": "The event loop is the secret engine behind Node.js non-blocking I/O. Understanding its phases — timers, pending callbacks, poll, check, close — unlocks the ability to write highly performant server-side JavaScript.",
     "createdAt": "2026-06-02T06:40:33.974Z"
+  },
+  {
+    "id": "c2ead76772eb",
+    "title": "Understanding the Node.js Event Loop",
+    "category": "development",
+    "author": "YOGESHKUMAR S",
+    "body": "The event loop is the secret engine behind Node.js non-blocking I/O. Understanding its phases — timers, pending callbacks, poll, check, close — unlocks the ability to write highly performant server-side JavaScript.",
+    "createdAt": "2026-06-02T06:56:47.413Z"
   }
 ]
